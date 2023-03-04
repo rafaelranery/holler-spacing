@@ -4,12 +4,22 @@
 }
 
 /* Header */
+#header {
+    background-color: #15133C;
+}
 #header .container {
     align-items: center;
 }
 
-
 #header .section-title {
     font-size: 2em;
     letter-spacing: 3px;
+}
+
+#header .section-title,
+#header li a {
+    color:#F1eee9;
+}
+#header a.active {
+    background-color: #ec994b;
 }
