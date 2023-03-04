@@ -1,0 +1,15 @@
+.section-title {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+}
+
+/* Header */
+#header .container {
+    align-items: center;
+}
+
+
+#header .section-title {
+    font-size: 2em;
+    letter-spacing: 3px;
+}
