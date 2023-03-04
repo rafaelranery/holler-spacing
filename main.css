@@ -38,3 +38,9 @@
 .carousel-control-next-icon {
     cursor: pointer;
 }
+
+/* Services sct */
+.card {
+    background-color: #F1eee9;
+    color: #15133C;
+}
