@@ -20,6 +20,7 @@
 #header li a {
     color:#F1eee9;
 }
-#header a.active {
+#header a.active,
+.navbar-toggler {
     background-color: #ec994b;
 }
