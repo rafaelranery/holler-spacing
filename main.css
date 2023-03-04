@@ -24,3 +24,17 @@
 .navbar-toggler {
     background-color: #ec994b;
 }
+
+/* About Sect */
+#about-carousel,
+#about-carousel img {
+    max-height: 85vh;
+}
+#about-carousel img {
+    object-fit: cover;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    cursor: pointer;
+}
