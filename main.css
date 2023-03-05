@@ -62,3 +62,16 @@
     color: #15133C;
     font-size: 150%;
 }
+
+.bg-dark-blue {
+    background-color: #15133C;
+}
+
+.text-light-beige {
+    color: #F1eee9;
+}
+
+#spaces .card:hover {
+    cursor: pointer;
+    box-shadow: 0 0 5px #15133C;
+}
