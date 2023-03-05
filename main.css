@@ -21,8 +21,10 @@
     color:#F1eee9;
 }
 #header a.active,
-.navbar-toggler {
+.navbar-toggler,
+#spaces button.active {
     background-color: #ec994b;
+    color: #F1eee9;
 }
 
 /* About Sect */
@@ -42,5 +44,10 @@
 /* Services sct */
 .card {
     background-color: #F1eee9;
+    color: #15133C;
+}
+
+/* spaces */
+#spaces button {
     color: #15133C;
 }
