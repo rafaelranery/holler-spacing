@@ -51,3 +51,14 @@
 #spaces button {
     color: #15133C;
 }
+
+/* Contact sct */
+
+.btn.btn-dark {
+    background-color: #15133C;
+}
+
+#contact ul .bi {
+    color: #15133C;
+    font-size: 150%;
+}
