@@ -13,7 +13,8 @@
 
 #header .section-title {
     font-size: 2em;
-    letter-spacing: 3px;
+    letter-spacing: 1px;
+    padding-right: 5px;
 }
 
 #header .section-title,
@@ -74,4 +75,8 @@
 #spaces .card:hover {
     cursor: pointer;
     box-shadow: 0 0 5px #15133C;
+}
+
+#contact {
+    background-color: #F1eee9;
 }
