@@ -80,3 +80,11 @@
 #contact {
     background-color: #F1eee9;
 }
+/* Form validation error */
+
+#name-error.error,
+#email-error.error,
+#msg-error.error {
+    color: red;
+    padding: 5px;
+}
